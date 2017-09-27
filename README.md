@@ -1,13 +1,13 @@
 # yummy_recipe_api_v1
-A flask-driven restful API for Bucketlist interactions
+A flask-driven restful API for recipe interactions
 
 
 ## Technologies used
 * **[Python3](https://www.python.org/downloads/)** - A programming language that lets you work more quickly.
-* **[Flask](flask.pocoo.org/)** - A microframework for Python based on Werkzeug, Jinja 2
-* **[Virtualenv](https://virtualenv.pypa.io/en/stable/)** - A tool to create virtual environments
-* **[PostgreSQL](https://www.postgresql.org/download/)** – Postgres database (https://www.postgresql.org/about/advantages/) over others.
-* other dependencies are on requirements.txt.
+* **[Flask](flask.pocoo.org/)** - A microframework for Python based on Werkzeug, Jinja 2.
+* **[Virtualenv](https://virtualenv.pypa.io/en/stable/)** - A tool to create virtual environments.
+* **[PostgreSQL](https://www.postgresql.org/download/)** – Postgres database
+* And other dependencies on requirements.txt.
 
 
 ## Installation / Usage
