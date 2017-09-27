@@ -11,8 +11,8 @@ A flask-driven restful API for recipe interactions
 
 
 ## Installation / Usage
-* If you wish to run your own build, ensure python3 is globally installed in your computer. If not, you can get python3 [here](https://www.python.org).
-* After this, ensure you have installed virtualenv globally as well. If not, run this:
+* To run your own build, ensure python3 is globally installed in your computer. If not, get python3 [here](https://www.python.org).
+* Ensure you have installed virtualenv globally otherwise run this:
     ```
         $ pip install virtualenv
     ```
@@ -31,7 +31,7 @@ A flask-driven restful API for recipe interactions
     2. Create and fire up your virtual environment in python3:
         ```
         $ virtualenv -p python3 venv
-        $ pip install autoenv
+        $ source venv/bin/activate
         ```
 
 * #### Install your requirements
