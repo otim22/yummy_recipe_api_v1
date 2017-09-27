@@ -1,4 +1,4 @@
-# flask-rest-api 
+# yummy_recipe_api_v1
 A flask-driven restful API for Bucketlist interactions
 
 
@@ -25,7 +25,7 @@ A flask-driven restful API for Bucketlist interactions
 * #### Dependencies
     1. Cd into your the cloned repo as such:
         ```
-        $ cd flask-rest-api
+        $ cd yummy_recipe_api_v1
         ```
 
     2. Create and fire up your virtual environment in python3:
